@@ -1,3 +1,5 @@
+#pip install django-cryptography
+
 from django.db import models
 from django_cryptography.fields import encrypt
 # Create your models here.
